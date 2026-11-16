@@ -1,0 +1,49 @@
+appsettings.Development.local.json
+
+## ====== Build Outputs ======
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Re]leases/
+x64/
+x86/
+bbin/
+bin/
+obj/
+
+## ====== User-Specific & Cache Files ======
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.pyc
+
+## ====== Test Results & Coverage ======
+[Tt]est[Rr]esult*/
+*.coverage
+*.coveragexml
+_NCrunch_*
+.nccrunch/
+
+## ====== Packages & Dependencies ======
+# NuGet Packages
+*.nupkg
+packages/
+# Paket
+.paket/
+
+## ====== Environment & Secrets ======
+.env
+.env.*
+*.secret
+*.token
+
+## ====== OS Generated Files ======
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
